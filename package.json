@@ -62,7 +62,7 @@
     "webpack-dev-server": "^2.7.1"
   },
   "peerDependencies": {
-    "chart.js": "^2.3",
+    "chart.js": "2.6.0",
     "react": "^0.14.0 || ^15.0.0 || ^16.0.0-beta || ^16.0.0",
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0-beta || ^16.0.0"
   },
