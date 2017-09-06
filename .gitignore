@@ -17,7 +17,7 @@ coverage.html
 node_modules
 
 # Build directories
-lib
+#lib
 dist
 es
 
